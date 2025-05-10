@@ -70,4 +70,3 @@ VALUES
     (SELECT user_id FROM User WHERE email = 'aben@gmail.com'),
     'Hi Aben, yes it is available!'
   );
-
